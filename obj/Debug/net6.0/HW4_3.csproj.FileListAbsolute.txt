@@ -1,0 +1,15 @@
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\bin\Debug\net6.0\HW4_3.exe
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\bin\Debug\net6.0\HW4_3.deps.json
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\bin\Debug\net6.0\HW4_3.runtimeconfig.json
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\bin\Debug\net6.0\HW4_3.dll
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\bin\Debug\net6.0\HW4_3.pdb
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\obj\Debug\net6.0\HW4_3.csproj.AssemblyReference.cache
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\obj\Debug\net6.0\HW4_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\obj\Debug\net6.0\HW4_3.AssemblyInfoInputs.cache
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\obj\Debug\net6.0\HW4_3.AssemblyInfo.cs
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\obj\Debug\net6.0\HW4_3.csproj.CoreCompileInputs.cache
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\obj\Debug\net6.0\HW4_3.dll
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\obj\Debug\net6.0\refint\HW4_3.dll
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\obj\Debug\net6.0\HW4_3.pdb
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\obj\Debug\net6.0\HW4_3.genruntimeconfig.cache
+C:\Users\Matan\Downloads\gdm222_2565_week12_graph-main\HW4_3\obj\Debug\net6.0\ref\HW4_3.dll
