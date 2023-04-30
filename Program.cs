@@ -7,7 +7,6 @@ class MainClass {
 
     int[,] graph = new int[n, n];
 
-    Console.WriteLine("Enter edges (from node i to node j):");
     int i, j;
     while (true) {
       Console.Write("i = ");
@@ -21,13 +20,12 @@ class MainClass {
       graph[i, j] = 1;
     }
 
-    Console.WriteLine("Enter nodes to check (from node j to node i):");
     while (true) {
-      Console.Write("j check = ");
+      Console.Write("j = ");
       j = int.Parse(Console.ReadLine());
       if (j < 0 || j >= n) break;
 
-      Console.Write("i check = ");
+      Console.Write("i = ");
       i = int.Parse(Console.ReadLine());
       if (i < 0 || i >= n) break;
 
